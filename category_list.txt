@@ -1,0 +1,12 @@
+the-arts
+business-economics
+design-engineering-technology
+health
+literature-language
+mathematics
+philosophy-religion
+psychology
+science-technology
+social-studies
+teaching-education
+thinking-learning
